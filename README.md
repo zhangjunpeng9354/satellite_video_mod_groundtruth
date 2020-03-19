@@ -53,4 +53,18 @@ ISSN={1558-0644},
 month={},}
 ```
 
+```
+@INPROCEEDINGS{8615873, 
+author={J. {Zhang} and X. {Jia} and J. {Hu} and K. {Tan}}, 
+booktitle={2018 Digital Image Computing: Techniques and Applications (DICTA)}, 
+title={Satellite Multi-Vehicle Tracking under Inconsistent Detection Conditions by Bilevel K-Shortest Paths Optimization}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={1-8}, 
+doi={10.1109/DICTA.2018.8615873}, 
+ISSN={null}, 
+month={Dec},}
+```
+
 
