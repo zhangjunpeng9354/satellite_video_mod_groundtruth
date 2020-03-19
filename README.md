@@ -67,4 +67,7 @@ ISSN={null},
 month={Dec},}
 ```
 
+## License
+
+Please refer to [LICENSE](/LICENSE) for more details.
 
