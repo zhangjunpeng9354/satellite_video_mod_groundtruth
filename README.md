@@ -9,12 +9,12 @@ The geo-territories of them are shown as below (Red for 001, and Green for 002).
 
 ![](/images/intro.png)
 
-For each moving vehicle, a boundary box is provided across the video with an unique id, therefore this dataset can alse 
+For each moving vehicle, a boundary box is provided across the video with an unique id, therefore this dataset can also 
 be used for evaluating multiple target tracking algorithm.
 
 ## How is the groundtruth built?
 
-The boundary boxes are annotated on [Computer Vision Annotation Tool (CVAT)]((https://www.google.com)).
+The boundary boxes are annotated on [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat).
 
 ## How to use it?
 
